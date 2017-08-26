@@ -1,0 +1,19 @@
+{
+  "name": "oled-pin-input",
+  "version": "0.0.0",
+  "description": "Pin Input Screen for OLED Screens",
+  "main": "input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmakeit/node-oled-pin-input.git"
+  },
+  "author": "Blixa Morgan <blixa@projectmakeit.com> (MrMakeIt)",
+  "license": "MIT",
+  "dependencies": {
+    "oled-font-5x7": "^1.0.0",
+    "oled-i2c-bus": "^1.0.10"
+  }
+}
